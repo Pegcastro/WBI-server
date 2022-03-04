@@ -19,6 +19,7 @@ Server side for the Sneaker Head Project
 ******************************************
 ## Correr el proyecto:
 ******************************************
+* Se usó **Node v16.13.2**.
 * Instalar las dependencias necesarias con `npm install`.
 * Correr comando `npm start`.
 
