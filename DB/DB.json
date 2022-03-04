@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1L46Ft5ckejALA8kFMTA",
+    "name": "Fly Jet",
+    "brand": "Adidas",
+    "model": "FLY-01",
+    "price": 45,
+    "date": "2019-06-15T04:00:00.000Z",
+    "store": "https://www.adidas.com",
+    "image_url": "https://i.pinimg.com/originals/5b/f5/07/5bf5078426ce553b93e3fd639c7e2b8f.jpg"
+  },
+  {
+    "id": "5FnndsSQgoxUpB92FClW",
+    "name": "Air Force 50",
+    "brand": "RS21",
+    "model": "NRG-50",
+    "price": 33,
+    "date": "2000-12-24T04:00:00.000Z",
+    "store": "https://www.rs21.com.ve/",
+    "image_url": "https://m.media-amazon.com/images/I/61K6uQC3aeL._AC_UL1000_.jpg"
+  },
+  {
+    "id": "Fnzl8tntfuycoVgVm2z7",
+    "name": "Phone Sneaker",
+    "brand": "Motorola",
+    "model": "MOTO-69",
+    "price": 150.33,
+    "date": "1999-04-23T04:00:00.000Z",
+    "store": "https://www.amazon.com",
+    "image_url": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/actor-don-adams-with-shoe-phone-bettmann.jpg"
+  },
+  {
+    "id": "IaX21fMAt3xo3ujzWxgP",
+    "name": "Flamingo",
+    "brand": "RS21",
+    "model": "PRO-5",
+    "price": 420,
+    "date": "1969-04-07T04:00:00.000Z",
+    "store": "www.rs21.com.ve",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_772713-MLV27677887307_072018-O.jpg"
+  },
+  {
+    "id": "aR2N1fABCmEOtf4gd4To",
+    "name": "Basic sneakers 2",
+    "brand": "Nike",
+    "model": "BS-102",
+    "price": 69.99,
+    "date": "2007-03-17T00:00:00.000Z",
+    "store": "http://www.randomsneaker.com",
+    "image_url": "https://m.media-amazon.com/images/I/612AcTbctZL._UX500_.jpg"
+  },
+  {
+    "id": "oPtG7eDUz7Y6Bwnz2QD7",
+    "name": "Hoops 3.0",
+    "brand": "Adidas",
+    "model": "GY5432",
+    "price": 60,
+    "date": "2016-03-10T04:30:00.000Z",
+    "store": "https://www.adidas.com",
+    "image_url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/990ae42975ef4b93bea8ada9001f3877_9366/Hoops_3.0_Low_Classic_Vintage_Shoes_Black_GY5432_01_standard.jpg"
+  },
+  {
+    "id": "v5lQFVnhX5BWXuuTM9ao",
+    "name": "Rockyson",
+    "brand": "Nike",
+    "model": "BOL82",
+    "price": 20,
+    "date": "2016-03-23T04:30:00.000Z",
+    "store": "https://www.nike.com/",
+    "image_url": "https://www.dondeir.com/wp-content/uploads/2020/09/nike-snkrs-.jpg"
+  },
+  {
+    "id": "xb0imLualDVR6vI9Iw3L",
+    "name": "basic sneaker",
+    "brand": "motorola",
+    "model": "BS-101",
+    "price": 69.99,
+    "date": "2007-03-17T00:00:00.000Z",
+    "store": "http://www.randomsneaker.com",
+    "image_url": "https://cdn.cliqueinc.com/posts/279883/basic-sneakers-279883-1557922407424-product.700x0c.jpg"
+  }
+]
